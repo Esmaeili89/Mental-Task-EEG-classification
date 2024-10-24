@@ -6,7 +6,7 @@ This repository contains MATLAB code for classifying Mental tasks using EEG sign
 
 This code was written and run in MATLAB 2009 software
 
-## *Main Parameters*
+## Main Parameters
 
 The bellow values were considered for these parameters. You can set other values for them:
 
@@ -15,14 +15,14 @@ The bellow values were considered for these parameters. You can set other values
 *Num epochs*: epoch= 30
 *Num particles*: num_chrom= 110    
 
-## *Warning*
+## Warning
 
 if there is an error about NaN data, search them in test and train matrix and set them to zero.
 
-## *Dataset used*
+## Dataset used
 
 The proposed algorithm was implemented on a dataset comprising five mental tasks recorded at the Colorado Electroencephalography and Brain-Computer Interfaces Laboratory (CEBL) by Keirn and Aunon. These tasks include relaxation, 3D shape rotation around an axis, mental multiplication, letter writing to a friend, and visual counting (refer to Fig. 6). These signals were captured at a sampling rate of 250 samples per second across six channels: C1, C2, O1, O2, P1, and P2, each of which lasts for 10 seconds and contains 2500 samples. The dataset encompasses a total of 325 signals.
 
-## *Acknowledgments*
+## Acknowledgments
 
 We would like to acknowledge the contributions of the researchers and participants involved in the development of the Keirn's dataset, as well as the community that supports open-source projects.
