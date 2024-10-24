@@ -8,7 +8,7 @@ This code was written and run in MATLAB 2009 software
 
 ## Main Parameters
 
-The bellow values were considered for these parameters. You can set other values for them:
+The bellow values were considered for main parameters. You can set other values:
 
 *Num segments*: win= 20
 *Size of each segment*= 125
