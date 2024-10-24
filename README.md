@@ -11,8 +11,11 @@ This code was written and run in MATLAB 2009 software
 The bellow values were considered for main parameters. You can set other values:
 
   o Num segments: win= 20
+  
   o Size of each segment= 125
+  
   o Num epochs: epoch= 30
+  
   o Num particles: num_chrom= 110    
 
 ## Warning
